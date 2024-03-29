@@ -1,6 +1,6 @@
 # Example flake to demonstrate remote flake patterns
 
-Below is a flake, using `example-hostname` to show how to consume a remote flake.  It's that simple.
+Below is a flake, using `example-hostname`, to show how to consume a remote flake.  It's that simple.
 
 > Refer to the schema here on the [NixOS wiki](https://nixos.wiki/wiki/Flakes#Output_schema)
 ```nix
